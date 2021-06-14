@@ -1,8 +1,9 @@
 ## Introduction
 - 👋 Hi, I’m <b>Santhosh.S</b>
-- 👀 I’m interested in Software Development.
+
 - 🌱💻 I’m currently CS Student in Velammal Engineering College.
 - 📚 Currently Learning: Data Structures and Algorithm Concepts.
+- 👀 I’m interested in Software Development.
 - 📫 Reach me : santhosh.senthil552003@gmail.com
 
 <!---
