@@ -1,7 +1,7 @@
 ## Introduction
 - 👋 Hi, I’m <b>Santhosh.S</b>
 
-- 🌱💻 I’m currently CS Student in Velammal Engineering College.
+- 🌱💻 I’m currently a CS Student in Velammal Engineering College.
 - 📚 Currently Learning: Data Structures and Algorithm Concepts.
 - 👀 I’m interested in Software Development.
 - 📫 Reach me : santhosh.senthil552003@gmail.com
@@ -11,7 +11,7 @@ Santhosh553/Santhosh553 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 ### Connect with me
-[<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( https://www.linkedin.com/in/santhosh-senthil-33028b200/) <br>
+[<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( https://www.linkedin.com/in/santhosh-s-33028b200/) <br>
 <!---
 --->
 ### Languages and Tools
