@@ -4,7 +4,7 @@
 - 🌱💻 I’m currently a CS Student in Velammal Engineering College.
 - 📚 Currently Learning: Data Structures and Algorithm Concepts.
 - 👀 I’m interested in Software Development.
-- 📫 Reach me : santhosh.senthil552003@gmail.com
+- 📫 Reach me : santhoshscse2020@gmail.com
 
 <!---
 Santhosh553/Santhosh553 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
